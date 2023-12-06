@@ -43,7 +43,7 @@ void motionDetectionMode() {
         uLCD.printf("Dist=%ld mm\r\n", distance);  
         uLCD_mutex.unlock();
         */
-        if(distance <= 500){
+        if(distance <= 600){
             float speed = pot.read();
             speed += adjust;
             if (speed > 1){
