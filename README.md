@@ -34,9 +34,9 @@ The temperature as well as current mode selected will be displayed on an LCD scr
 
 ## Wiring
 
-![image](https://github.com/lelahc/MbedDesktopFan/assets/153053788/489f21db-fb55-46e3-a3a3-4d5546f3ba7a)
+![image](https://github.com/lelahc/MbedDesktopFan/assets/153053788/9ac31ef4-c87d-4835-98ee-904a866f41d6)
 
-![image](https://github.com/lelahc/MbedDesktopFan/assets/153053788/f75febda-7f7e-4bb1-a812-ef8969423b2a)
+![image](https://github.com/lelahc/MbedDesktopFan/assets/153053788/f3bb1ee4-7b3e-455b-a7f9-ef7131af3086)
 
 ![image](https://github.com/lelahc/MbedDesktopFan/assets/153053788/195ab374-be9a-4c20-bc0d-e745b55195eb)
 
