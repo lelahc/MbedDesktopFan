@@ -47,4 +47,5 @@ The temperature as well as current mode selected will be displayed on an LCD scr
 ![image](https://github.com/lelahc/MbedDesktopFan/assets/153053788/59198e8a-fb5a-4494-a421-6ff5e012ea19)
 
 ## Demo
+https://youtu.be/nAUBAZlvqsk
 
