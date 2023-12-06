@@ -6,10 +6,10 @@
 ## Description
 This desktop fan device takes input from the user, either through the free "Adafruit Bluefruit BLE" App or on-board pushbuttons, to select one of three modes: Motion Detection Mode, Temperature Mode, and Manual Mode.
 
-- Motion Detection Mode: Fan will turn on at an inputted speed (potentiometer) when an object is detected 
+- Motion Detection Mode: Fan will turn on at an inputted speed (potentiometer/app) when an object is detected 
   within range (<500mm).
 
-- Temperature Mode: Fan will turn on at an inputted speed (potentiometer) at temperatures above 75°F.
+- Temperature Mode: Fan will turn on at an inputted speed (potentiometer/app) at temperatures above 75°F.
 
 - Manual Mode: User may manually turn fan on/off by adjust speed using an on-board potentiometer or up/down arrows in app.
 
